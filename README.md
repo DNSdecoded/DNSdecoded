@@ -32,63 +32,75 @@ I architect **scalable AI/ML systems** that transform research innovations into 
 
 ## 🎓 Professional Training
 
-🔹 **🤖 SkillHive Connect** - Generative AI Training Program (Aug 2025 - Dec 2025)
-🔹 **🤖 Google for Developers** - AI/ML Training Program (Jan 2025 - Mar 2025)
-🔹 **🛡️ Palo Alto Networks** - Cybersecurity Training (Oct 2024 - Dec 2024)
-🔹 **📊 Altair** - Data Science Training (Apr 2024 - Jun 2024)
+<div align="center">
+
+![Training Timeline](https://cdn.jsdelivr.net/gh/free-whiteboard-online/Free-Erasorio-Alternative-for-Collaborative-Design@f6260ff10d8e1748bda1226eac7a2efe8ad28f91/uploads/2026-01-26T20-11-54-593Z-xi5z1fq8r.png)
+
+</div>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**🤖 SkillHive Connect**  
-*Generative AI Training Program*  
-*Aug 2025 - Dec 2025*
-
-- LLMs and Transformer architectures
-- LangChain and RAG systems
-- LLM fine-tuning and deployment
-- Built voice medical assistant & chatbots
+<h3>🤖 SkillHive Connect</h3>
+<p>
+  <em>Generative AI Training Program</em><br>
+  <em>Aug 2025 - Dec 2025</em>
+</p>
+<ul>
+  <li>LLMs and Transformer architectures</li>
+  <li>LangChain and RAG systems</li>
+  <li>LLM fine-tuning and deployment</li>
+  <li>Built voice medical assistant & chatbots</li>
+</ul>
 
 </td>
 <td width="50%" valign="top">
 
-**🤖 Google for Developers**  
-*AI/ML Training Program*  
-*Jan 2025 - Mar 2025*
-
-- ML deployment with Vertex AI
-- Computer vision with OpenCV
-- Real-time inference pipelines
+<h3>🤖 Google for Developers</h3>
+<p>
+  <em>AI/ML Training Program</em><br>
+  <em>Jan 2025 - Mar 2025</em>
+</p>
+<ul>
+  <li>ML deployment with Vertex AI</li>
+  <li>Computer vision with OpenCV</li>
+  <li>Real-time inference pipelines</li>
+</ul>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**🛡️ Palo Alto Networks**  
-*Cybersecurity Training*  
-*Oct 2024 - Dec 2024*
-
-- Firewall policy optimization
-- SIEM threat analysis
-- Network security architecture
+<h3>🛡️ Palo Alto Networks</h3>
+<p>
+  <em>Cybersecurity Training</em><br>
+  <em>Oct 2024 - Dec 2024</em>
+</p>
+<ul>
+  <li>Firewall policy optimization</li>
+  <li>SIEM threat analysis</li>
+  <li>Network security architecture</li>
+</ul>
 
 </td>
 <td width="50%" valign="top">
 
-**📊 Altair**  
-*Data Science Training*  
-*Apr 2024 - Jun 2024*
-
-- Automated ML pipelines
-- Algorithm benchmarking
-- Statistical modeling
+<h3>📊 Altair</h3>
+<p>
+  <em>Data Science Training</em><br>
+  <em>Apr 2024 - Jun 2024</em>
+</p>
+<ul>
+  <li>Automated ML pipelines</li>
+  <li>Algorithm benchmarking</li>
+  <li>Statistical modeling</li>
+</ul>
 
 </td>
 </tr>
 </table>
-
 ---
 
 ## 🛠️ Tech Arsenal
@@ -135,7 +147,7 @@ I architect **scalable AI/ML systems** that transform research innovations into 
 
 ## 📊 Impact Metrics
 
-<div align="center">
+<div align="left">
 
 ```
 📉 65% reduction in EM simulation costs through RL
