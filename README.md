@@ -2,8 +2,7 @@
 
 # 👋 Hi, I'm Sanjay Sakhinala
 
-### AI/ML Engineer | Published Researcher | Patent Inventor
-
+### AI/ML Engineer | Published Researcher 
 *Building production AI systems that bridge research and real-world impact*
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sanjaysakhinala.pages.dev)
@@ -138,7 +137,7 @@ I architect **scalable AI/ML systems** that transform research innovations into 
 | **[IndicRAG](https://github.com/DNSdecoded/IndicRAG)** | Production multilingual QA system for 12+ Indian languages | FAISS • Cross-Encoder • OCR • FastAPI |
 | **[CipherChat](https://github.com/DNSdecoded/CipherChat)** | Zero-knowledge encrypted CLI messenger | AES-256 • RSA-2048 • SHA-256 |
 | **[EuroSAT Land Classification](https://github.com/DNSdecoded/landuse-cnn-eurosat)** | 89% accuracy satellite imagery CNN | PyTorch • Grad-CAM • Computer Vision |
-| **[DNS Resolver Benchmark](https://github.com/DNSdecoded/dns_analyzer)** | Multithreaded DNS performance analyzer | Python • Threading • Analytics |
+| **[ResolverLab](https://github.com/DNSdecoded/ResolverLab)** | High-performance DNS resolver benchmarking & filtering analysis suite | Python • asyncio • DNS (UDP/TCP/DoH/DoT) • HTML Reports |
 | **RL for EM Optimization** | 65% cost reduction in simulations ([Blog](https://sanjaysakhinala.pages.dev/blog/rl-antenna-design)) | LightGBM • Stable-Baselines3 • Gymnasium |
 
 </div>
