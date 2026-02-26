@@ -1,9 +1,9 @@
 <div align="center">
 
-# 👋 Hi, I'm Sanjay Sakhinala
+# Sanjay Sakhinala
 
-### AI/ML Engineer | Published Researcher 
-*Building production AI systems that bridge research and real-world impact*
+### AI/ML Developer | Published Researcher
+*Building and deploying real ML systems*
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sanjaysakhinala.pages.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjay-sakhinala)
@@ -13,223 +13,79 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
-I architect **scalable AI/ML systems** that transform research innovations into production-grade solutions. From multilingual RAG pipelines processing documents in 12+ languages to uncertainty-aware RL frameworks that slash simulation costs by **65%** — I build AI that ships.
+Entry-level AI/ML developer with hands-on experience building and deploying production ML systems.
+Shipped a multilingual RAG pipeline supporting 10+ Indian languages with a full evaluation framework,
+and reduced antenna simulation cost by 70% using uncertainty-aware reinforcement learning,
+producing 2 IEEE publications and a filed patent.
 
-**🎓 Education:** B.Tech in Electronics and Communication Engineering (May 2025)  
-**📍 Location:** Pithapuram, Andhra Pradesh, India  
-**🔬 Research Focus:** NLP • Reinforcement Learning • Computer Vision • LLM Fine-tuning
-
-**Current Work:**
-- Building advanced RAG architectures for multilingual document understanding
-- Training multi-agent RL systems for electromagnetic optimization
-- Exploring LLM fine-tuning strategies and deployment workflows
-- Developing production-ready NLP pipelines at scale
+**Location:** Hyderabad, Telangana, India
 
 ---
 
-## 🎓 Professional Training
+## Featured Projects
 
-<div align="center">
-
-![Training Timeline](https://cdn.jsdelivr.net/gh/free-whiteboard-online/Free-Erasorio-Alternative-for-Collaborative-Design@f6260ff10d8e1748bda1226eac7a2efe8ad28f91/uploads/2026-01-26T20-11-54-593Z-xi5z1fq8r.png)
-
-</div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<h3>🤖 SkillHive Connect</h3>
-<p>
-  <em>Generative AI Training Program</em><br>
-  <em>Aug 2025 - Dec 2025</em>
-</p>
-<ul>
-  <li>LLMs and Transformer architectures</li>
-  <li>LangChain and RAG systems</li>
-  <li>LLM fine-tuning and deployment</li>
-  <li>Built voice medical assistant & chatbots</li>
-</ul>
-
-</td>
-<td width="50%" valign="top">
-
-<h3>🤖 Google for Developers</h3>
-<p>
-  <em>AI/ML Training Program</em><br>
-  <em>Jan 2025 - Mar 2025</em>
-</p>
-<ul>
-  <li>ML deployment with Vertex AI</li>
-  <li>Computer vision with OpenCV</li>
-  <li>Real-time inference pipelines</li>
-</ul>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<h3>🛡️ Palo Alto Networks</h3>
-<p>
-  <em>Cybersecurity Training</em><br>
-  <em>Oct 2024 - Dec 2024</em>
-</p>
-<ul>
-  <li>Firewall policy optimization</li>
-  <li>SIEM threat analysis</li>
-  <li>Network security architecture</li>
-</ul>
-
-</td>
-<td width="50%" valign="top">
-
-<h3>📊 Altair</h3>
-<p>
-  <em>Data Science Training</em><br>
-  <em>Apr 2024 - Jun 2024</em>
-</p>
-<ul>
-  <li>Automated ML pipelines</li>
-  <li>Algorithm benchmarking</li>
-  <li>Statistical modeling</li>
-</ul>
-
-</td>
-</tr>
-</table>
----
-
-## 🛠️ Tech Arsenal
-
-<div align="center">
-
-### Core ML/AI
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge)
-![FAISS](https://img.shields.io/badge/FAISS-00ADD8?style=for-the-badge)
-
-### MLOps & Deployment
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-
-### Data & Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-</div>
+| Project | Description | Stack |
+|---------|-------------|-------|
+| **[IndicRAG](https://github.com/DNSdecoded/IndicRAG)** | Production multilingual document QA for 10+ Indian languages. Precision@5: 1.00, Recall@5: 0.92. | E5 embeddings, ChromaDB, NLLB-200, FastAPI, Redis, Docker, Gemini API |
+| **[RL for EM Optimization](https://sanjaysakhinala.pages.dev/blog/rl-antenna-design)** | 70% reduction in antenna simulation cost vs GA/PSO. SAC agent with blended surrogate ensemble. | PyTorch, Stable-Baselines3, LightGBM, Optuna, CST API |
+| **[EuroSAT Land Classification](https://github.com/DNSdecoded/landuse-cnn-eurosat)** | 89% accuracy on 27,000 satellite images across 10 land-use classes with Grad-CAM interpretability. | PyTorch, TorchVision, OpenCV, Grad-CAM |
+| **[CipherChat](https://github.com/DNSdecoded/CipherChat)** | Multi-user CLI messenger with AES-256 + RSA-2048 hybrid encryption and SHA-256 integrity verification. | Python, Cryptography, TCP/IP, Multi-threading |
+| **[ResolverLab](https://github.com/DNSdecoded/ResolverLab)** | High-concurrency DNS benchmarking across UDP, TCP, DoH, and DoT with automated HTML reports. | Python, asyncio, aiohttp |
 
 ---
 
-## 🎯 Featured Projects
+## Research
 
-<div align="center">
+**Publications**
+- *Bandwidth Enhancement of Slotted Hexagonal Patch Antenna for 6G Ultra-Fast Data Transfer and Brain-Computer Interface* — ICMOCE 2025, IIT Bhubaneswar. [DOI: 10.1109/ICMOCE64100.2025.11076991](https://doi.org/10.1109/ICMOCE64100.2025.11076991)
+- *Bandwidth Optimization of Slotted Circular Patch Antenna for 6G Ultra-Fast Data Transfer and Brain-Computer Interface Application* — ICCCNT 2025, IIT Indore. IEEE Xplore pending.
+- *Uncertainty-Aware Reinforcement Learning System with Blended Surrogate Models for Electromagnetic Structure Optimization* — Under Review.
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **[IndicRAG](https://github.com/DNSdecoded/IndicRAG)** | Production multilingual QA system for 12+ Indian languages | FAISS • Cross-Encoder • OCR • FastAPI |
-| **[CipherChat](https://github.com/DNSdecoded/CipherChat)** | Zero-knowledge encrypted CLI messenger | AES-256 • RSA-2048 • SHA-256 |
-| **[EuroSAT Land Classification](https://github.com/DNSdecoded/landuse-cnn-eurosat)** | 89% accuracy satellite imagery CNN | PyTorch • Grad-CAM • Computer Vision |
-| **[ResolverLab](https://github.com/DNSdecoded/ResolverLab)** | High-performance DNS resolver benchmarking & filtering analysis suite | Python • asyncio • DNS (UDP/TCP/DoH/DoT) • HTML Reports |
-| **RL for EM Optimization** | 65% cost reduction in simulations ([Blog](https://sanjaysakhinala.pages.dev/blog/rl-antenna-design)) | LightGBM • Stable-Baselines3 • Gymnasium |
-
-</div>
+**Patent**
+- Design of Hexagonal Patch Antenna at 28 GHz — Application No. 202541014595 A, Published March 2025 (India)
 
 ---
 
-## 📊 Impact Metrics
+## Skills
 
-<div align="left">
+**Languages:** Python, SQL
 
-```
-📉 65% reduction in EM simulation costs through RL
-🌐 12+ languages supported in production RAG systems
-🎯 89% accuracy on satellite imagery classification
-📄 2 IEEE conference publications (IIT-hosted)
-🔐 Zero-knowledge encryption system from scratch
-```
+**ML:** PyTorch, TensorFlow, Scikit-Learn, LightGBM, Stable-Baselines3, OpenCV
 
-</div>
+**NLP & GenAI:** HuggingFace Transformers, LangChain, RAG pipelines, multilingual embeddings, OCR
+
+**MLOps & Backend:** FastAPI, Docker, Redis, ChromaDB, FAISS, Git, Linux, Google Cloud Platform
+
+**Data:** Pandas, NumPy, Matplotlib, Optuna
 
 ---
 
-## 📚 Research & Innovation
+## Training
 
-<table>
-<tr>
-<td width="50%">
-
-### 📄 Publications
-- **ICMOCE 2025** @ IIT Bhubaneswar
-- **ICCCNT 2025** @ IIT Indore
-- [DOI: 10.1109/ICMOCE64100.2025.11076991](https://doi.org/10.1109/ICMOCE64100.2025.11076991)
-
-</td>
-<td width="50%">
-
-### 📜 Patent
-- **28 GHz Hexagonal Patch Antenna**
-- Application No. 202541014595 A
-- Focus: Bandwidth enhancement for 6G
-
-</td>
-</tr>
-</table>
-
-**Research Interests:** Brain-Computer Interfaces • RL-based Optimization • 6G Antenna Design
+| Program | Provider | Period |
+|---------|----------|--------|
+| Generative AI Training | SkillHive Connect | Aug 2025 – Dec 2025 |
+| AI/ML Training | Google for Developers | Jan 2025 – Mar 2025 |
+| Cybersecurity Training | Palo Alto Networks | Oct 2024 – Dec 2024 |
+| Data Science Training (RapidMiner) | Altair | Apr 2024 – Jun 2024 |
 
 ---
 
-## 📈 GitHub Stats
+## Activity
 
-<div align="center">
+- **IndicRAG** — v1.2.0 released Feb 2026, 34 commits, active development
+- **ResolverLab** — DNS benchmarking framework, public
+- **CipherChat** — Cryptography project, public
+- **EuroSAT** — CNN land classification, public
 
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DNSdecoded&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
-
-</div>
-
----
-
-## 🎯 Currently
-
-```diff
-+ Building advanced RAG systems for multilingual document understanding
-+ Training multi-agent RL models for electromagnetic optimization
-+ Exploring LLM fine-tuning strategies for domain-specific applications
-+ Open to full-time AI/ML Engineering roles and research collaborations
-```
-
----
-
-## 🤝 Let's Collaborate
-
-I'm actively seeking opportunities in:
-
-- 🚀 **Full-time AI/ML Engineering roles**
-- 🔬 **Research collaborations** in NLP and Reinforcement Learning
-- 💻 **Open-source contributions** to impactful ML projects
-- 🎯 **Technical consulting** on RAG systems and multilingual NLP
+All repositories: [github.com/DNSdecoded](https://github.com/DNSdecoded)
 
 ---
 
 <div align="center">
 
-### 💡 Fun Fact
-
-*Built an encrypted messenger before diving into ML — because I believe privacy and intelligence should coexist*
-
----
-
-**📫 Reach out if you're building AI/ML products that combine research rigor with production engineering!**
-
-<sub>Built with 💙 by Sanjay Sakhinala</sub>
+Open to entry-level AI/ML and software engineering roles.
 
 </div>
